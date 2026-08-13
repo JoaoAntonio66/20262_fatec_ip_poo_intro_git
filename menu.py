@@ -6,3 +6,5 @@ def menu():
     print("3. Multiplicar")
     print("4. Dividir")
     print("0. Sair")
+
+menu()
